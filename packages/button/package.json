@@ -1,0 +1,33 @@
+{
+  "name": "@ryandi-tiket/design-systems-button",
+  "version": "0.0.0",
+  "description": "Button component",
+  "main": "dist/main.js",
+  "module": "dist/module.js",
+  "types": "dist/types.d.ts",
+  "source": "src/index.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "test": "exit 0"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "directories": {
+    "lib": "dist",
+    "test": "__tests__"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryandi-tiket/design-systems.git"
+  }
+}

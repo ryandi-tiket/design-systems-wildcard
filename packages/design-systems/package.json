@@ -1,0 +1,32 @@
+{
+  "name": "@ryandi-tiket/design-systems",
+  "version": "0.0.0",
+  "description": "Component aggregator",
+  "main": "dist/main.js",
+  "module": "dist/module.js",
+  "types": "dist/types.d.ts",
+  "source": "src/index.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ryandi-tiket/design-systems-button": "*"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "directories": {
+    "lib": "dist",
+    "test": "__tests__"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryandi-tiket/design-systems.git"
+  }
+}
