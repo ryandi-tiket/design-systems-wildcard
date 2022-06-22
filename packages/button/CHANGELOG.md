@@ -1,5 +1,11 @@
 # @ryandi-tiket/design-systems-button
 
+## 1.0.1
+
+### Patch Changes
+
+- [`dc639d9`](https://github.com/ryandi-tiket/design-systems-wildcard/commit/dc639d9250e905cd79451df1f872f5664e43dc4c) Thanks [@ryanditjia](https://github.com/ryanditjia)! - Add button class
+
 ## 1.0.0
 
 ### Major Changes
