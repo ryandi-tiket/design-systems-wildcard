@@ -4,6 +4,12 @@
 
 ### Major Changes
 
+- [`ec2bada`](https://github.com/ryandi-tiket/design-systems-wildcard/commit/ec2badac18d247523d58eaa26c2dc81d1f391559) Thanks [@ryanditjia](https://github.com/ryanditjia)! - Initial release
+
+## 1.0.0
+
+### Major Changes
+
 - [`dd02e90`](https://github.com/ryandi-tiket/design-systems/commit/dd02e90e663d448f5eed218c34c2de7f7247dc9a) Thanks [@ryanditjia](https://github.com/ryanditjia)! - Initial release
 
 ## 1.0.0

@@ -1,6 +1,6 @@
 {
   "name": "@ryandi-tiket/design-systems-button",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Button component",
   "main": "dist/main.js",
   "module": "dist/module.js",
